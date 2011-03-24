@@ -15,7 +15,7 @@
 # Hpricot 0.8 compatability (avoid dup on Hpricot::Elem)
 
 # modified by Satyaram B V <http://bvsatyaram.com> 2011-03-24
-# Rails 3 compatibility
+# Rails version independent
 # Making this a gem
 # Removed mb_chars
 
