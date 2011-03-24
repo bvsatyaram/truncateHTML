@@ -1,0 +1,3 @@
+module Truncatehtml
+  # Your code goes here...
+end
