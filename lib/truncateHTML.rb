@@ -23,7 +23,7 @@ require "hpricot"
 require "truncateHTML/hpricot_truncator"
 
 module TruncateHTML
-  # Like the Rails _truncate_ helper but doesn't break HTML tags, entities, and optionally. words.
+  # Like the Rails _truncate_ helper but doesn't break HTML tags, entities, and optionally words.
   def self.truncate(text, options={})
     return if text.nil?
 
